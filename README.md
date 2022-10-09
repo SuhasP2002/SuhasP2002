@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/suhas-pai-29j02/">Suhas Pai</a> ☺
+# <a href="https://www.linkedin.com/in/suhas-pai-29j02/">Suhas Santosh Pai</a> ☺
  
 <a href="https://www.linkedin.com/in/suhas-pai-29j02/">
   <img align="left" alt="Suhas's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
