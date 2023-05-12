@@ -20,6 +20,7 @@ Bachelor of Engineering in Information Science & Technology at N.M.A.M Institute
 
 ## Communities :dancers:
 - Web Development Intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) 
+- Data Science Intern at CodeClause
 
 ## Technologies :fire:
 - HTML.
