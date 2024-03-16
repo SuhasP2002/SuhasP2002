@@ -13,13 +13,13 @@
 <br/>
 <br/>
 
-Undergraduate in Information Science @N.M.A.M.I.T | Web Development Intern at The Sparks Foundation | SDE Intern at Lenze SDC | Web Development | C | C++ |Java | Python | DSA
+Undergraduate in Information Science @N.M.A.M.I.T | SDE Intern at Lenze SDC | Web Development | C | C++ |Java | Python | DSA
 
 ## About :sunglasses:
 Bachelor of Engineering in Information Science & Technology at N.M.A.M Institute of Technology. Passionate about Web Development.
 
 ## Communities :dancers:
-- Web Development Intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) 
+- SDE Intern at [Lenze SDC](https://www.lenze.com/en-in/company/global-presence/asia/lenze-in-india/) 
 - Data Science Intern at CodeClause
 
 ## Technologies :fire:
