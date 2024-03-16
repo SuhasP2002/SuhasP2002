@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-Undergraduate in Information Science @N.M.A.M.I.T | Web Development Intern at The Sparks Foundation | Data Science Intern at CodeClause | Web Development | C | C++ |Java | Python | DSA
+Undergraduate in Information Science @N.M.A.M.I.T | Web Development Intern at The Sparks Foundation | SDE Intern at Lenze SDC | Web Development | C | C++ |Java | Python | DSA
 
 ## About :sunglasses:
 Bachelor of Engineering in Information Science & Technology at N.M.A.M Institute of Technology. Passionate about Web Development.
