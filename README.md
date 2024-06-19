@@ -16,10 +16,10 @@
 Undergraduate in Information Science @N.M.A.M.I.T | SDE Intern at Lenze SDC | Web Development | C | C++ |Java | Python | DSA
 
 ## About :sunglasses:
-Bachelor of Engineering in Information Science & Technology at N.M.A.M Institute of Technology. Passionate about Web Development.
+Currently working as a Software Developer in Lenze.Bachelor of Engineering in Information Science & Technology at N.M.A.M Institute of Technology. Passionate about Web Development.
 
 ## Communities :dancers:
-- SDE Intern at [Lenze SDC](https://www.lenze.com/en-in/company/global-presence/asia/lenze-in-india/) 
+- Software Developer at [Lenze SDC](https://www.lenze.com/en-in/company/global-presence/asia/lenze-in-india/) 
 - Data Science Intern at CodeClause
 
 ## Technologies :fire:
