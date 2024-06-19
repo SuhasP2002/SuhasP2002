@@ -38,7 +38,7 @@ Currently working as a Software Developer in Lenze.Bachelor of Engineering in In
 <code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cs/cs.png"></code>
+<code><img height="50px" src="https://e7.pngegg.com/pngimages/929/60/png-clipart-net-framework-c-net-core-software-framework-mono-studio-purple-studio.png"></code>
 </p>
 
 ## Tools
