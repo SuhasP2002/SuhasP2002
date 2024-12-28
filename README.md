@@ -46,7 +46,7 @@ Currently working as a Software Developer in Lenze.Bachelor of Engineering in In
 
 ## Real-time Stats
 <a href="https://github.com/SuhasP2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasP2002&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasP2002&langs_count=5&hide=html,css,xml&theme=radical" />
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=SuhasP2002&&show_icons=true&theme=radical&line_height=27&v=5" alt="Suhas's GitHub Stats" />
 
