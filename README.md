@@ -131,7 +131,7 @@ Results-driven Software Engineer with **1.5+ years** of production experience de
 ## 🎨 Fun Elements
 <p align="center">
   <!-- Snake Game Animation -->
-  <img src="https://raw.githubusercontent.com/SuhasP2002/SuhasP2002/output/github-contribution-grid-snake.svg" alt="Snake Game">
+  ![Snake Animation](https://raw.githubusercontent.com/SuhasP2002/SuhasP2002/output/snake.svg)
   
   <!-- Random Joke -->
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
