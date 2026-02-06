@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <style>
+    rect { fill: #0d1117; }
+    text { fill: white; font-family: Arial, sans-serif; }
+    .snake-head { fill: #238636; animation: move 4s linear infinite; }
+    @keyframes move {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(700px); }
+      100% { transform: translateX(0); }
+    }
+  </style>
+  
+  <rect width="800" height="200"/>
+  
+  <text x="400" y="60" text-anchor="middle" font-size="24" font-weight="bold">
+    GitHub Contribution Snake
+  </text>
+  
+  <text x="400" y="100" text-anchor="middle" font-size="16" fill="#8b949e">
+    Visualizing GitHub contributions
+  </text>
+  
+  <circle cx="100" cy="150" r="15" class="snake-head"/>
+  <circle cx="80" cy="150" r="10" fill="#2ea043"/>
+  <circle cx="60" cy="150" r="10" fill="#3fb950"/>
+  <circle cx="40" cy="150" r="8" fill="#56d364"/>
+  
+  <text x="400" y="180" text-anchor="middle" font-size="12" fill="#8b949e">
+    Generated for Suhas Pai | Updates daily
+  </text>
+</svg>
