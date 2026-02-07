@@ -94,11 +94,6 @@ Results-driven Software Engineer with **1.5+ years** of production experience de
   </a>
 </p>
 
-## 📈 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuhasP2002&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-</p>
-
 
 ## 🎮 GitHub Contribution Snake
 <div align="center">
