@@ -94,18 +94,6 @@ Results-driven Software Engineer with **1.5+ years** of production experience de
   </a>
 </p>
 
-
-## 🎮 GitHub Contribution Snake
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SuhasP2002/SuhasP2002/output/snake.svg" 
-     alt="Snake Game" 
-     width="800">
-
-<p><em>Watch the snake visualize my GitHub activity! 🐍</em></p>
-
-</div>
-
 ## 😄 Random Developer Joke
 <div align="center">
 
