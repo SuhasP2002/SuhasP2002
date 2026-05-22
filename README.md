@@ -76,7 +76,7 @@ Results-driven Software Engineer with **1.5+ years** of production experience de
 **N.M.A.M Institute of Technology, Nitte**
 
 📅 **Duration:** December 2020 – June 2024  
-📊 **CGPA:** **8.29/10.0** (82.9%)  
+📊 **CGPA:** **8.29/10.0** 
 ⭐ **Grade:** First Class with Distinction
 
 </div>
