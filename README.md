@@ -56,11 +56,6 @@ Results-driven Software Engineer with **1.5+ years** of production experience de
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhasP2002&theme=radical&hide_border=true&background=0D1117&fire=DD2727&currStreakLabel=DD2727" alt="GitHub Streak" height="180">
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhasP2002&theme=radical" alt="Activity Graph">
-</p>
-
 <!-- Animated Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhasP2002&theme=radical&bg_color=0D1117&hide_border=true&area=true&custom_title=Suhas's%20Contribution%20Graph" alt="Contribution Graph" width="95%">
