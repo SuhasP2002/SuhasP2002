@@ -7,7 +7,7 @@
 Results-driven Software Engineer with **1.5+ years** of production experience delivering high-impact solutions. Proven expertise in Java/Spring Boot ecosystem, microservices architecture, and cloud technologies. Passionate about building scalable systems and solving complex problems.
 
 ## 💼 Professional Experience 
-### **👨‍💻 Software Engineer** @ Lenze India 
+### **👨‍💻 Software Development Engineer1** @ Lenze India 
 `📅 June 2024 – Present` `📍 Pune, India`
 
 ### **🎓 Software Engineer Intern** @ Lenze India 
