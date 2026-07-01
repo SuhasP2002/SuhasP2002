@@ -4,7 +4,7 @@
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Suhas%20Pai&fontSize=40&animation=fadeIn&fontAlignY=35)
 
 ## 🎯 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Results-driven Software Engineer with **1.5+ years** of production experience delivering high-impact solutions. Proven expertise in Java/Spring Boot ecosystem, microservices architecture, and cloud technologies. Passionate about building scalable systems and solving complex problems.
+Results-driven Software Engineer with ** 2+ years** of production experience delivering high-impact solutions. Proven expertise in Java/Spring Boot ecosystem, microservices architecture, and cloud technologies. Passionate about building scalable systems and solving complex problems.
 
 ## 💼 Professional Experience 
 ### **👨‍💻 Software Development Engineer1** @ Lenze India 
