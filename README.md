@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-<a href="https://sage-kitten-0c60b9.netlify.app/"><img src="docs/img/link_portfolio.svg" width="270" alt="Portfolio"/></a>
+<a href="https://suhas-portfolio-gamma.vercel.app/"><img src="docs/img/link_portfolio.svg" width="270" alt="Portfolio"/></a>
 <a href="https://leetcode.com/u/Suhas_Santosh_Pai/"><img src="docs/img/link_leetcode.svg" width="270" alt="LeetCode"/></a>
 <a href="https://www.linkedin.com/in/suhas-pai-29j02"><img src="docs/img/link_linkedin.svg" width="270" alt="LinkedIn"/></a>
 </p>
