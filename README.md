@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a085,100:2980b9&height=220&section=header&text=Suhas%20Santosh%20Pai&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Suhas Santosh Pai profile header" />
 </p>
@@ -19,17 +18,17 @@
 </p>
 
 <p align="center">
-  <img src="docs/img/divider.svg" width="100%" alt="divider" />
+  <img src="divider.svg" width="100%" alt="divider" />
 </p>
 
 <p align="center">
-<a href="https://suhas-portfolio-gamma.vercel.app/"><img src="docs/img/link_portfolio.svg" width="270" alt="Portfolio"/></a>
-<a href="https://leetcode.com/u/Suhas_Santosh_Pai/"><img src="docs/img/link_leetcode.svg" width="270" alt="LeetCode"/></a>
-<a href="https://www.linkedin.com/in/suhas-pai-29j02"><img src="docs/img/link_linkedin.svg" width="270" alt="LinkedIn"/></a>
+<a href="https://sage-kitten-0c60b9.netlify.app/"><img src="link_portfolio.svg" width="270" alt="Portfolio"/></a>
+<a href="https://leetcode.com/u/Suhas_Santosh_Pai/"><img src="link_leetcode.svg" width="270" alt="LeetCode"/></a>
+<a href="https://www.linkedin.com/in/suhas-pai-29j02"><img src="link_linkedin.svg" width="270" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
-  <img src="docs/img/divider.svg" width="100%" alt="divider" />
+  <img src="divider.svg" width="100%" alt="divider" />
 </p>
 
 # 👨‍💻 About Me
@@ -76,7 +75,7 @@ I enjoy designing scalable backend architectures, building production-ready appl
 </table>
 
 <p align="center">
-  <img src="docs/img/divider.svg" width="100%" alt="divider" />
+  <img src="divider.svg" width="100%" alt="divider" />
 </p>
 
 # 🛠 Technologies
@@ -118,26 +117,13 @@ I enjoy designing scalable backend architectures, building production-ready appl
 </details>
 
 <p align="center">
-  <img src="docs/img/divider.svg" width="100%" alt="divider" />
+  <img src="divider.svg" width="100%" alt="divider" />
 </p>
 
 # 📊 Vital Statistics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuhasP2002&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=SuhasP2002&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasP2002&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SuhasP2002&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SuhasP2002&label=PROFILE%20VIEWS&color=2980b9&style=flat-square" alt="Profile views"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuhasP2002&theme=react-dark&bg_color=0d1117&color=2980b9&line=16a085&point=5be7c4&hide_border=true" alt="GitHub contribution graph"/>
 </p>
 
 # 🌱 Currently Learning
@@ -152,7 +138,7 @@ I enjoy designing scalable backend architectures, building production-ready appl
 </p>
 
 <p align="center">
-  <img src="docs/img/divider.svg" width="100%" alt="divider" />
+  <img src="divider.svg" width="100%" alt="divider" />
 </p>
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
@@ -175,7 +161,7 @@ I'm open to collaborating on:
 
 ## 📫 Contact
 
-<a href="https://sage-kitten-0c60b9.netlify.app/">
+<a href="https://suhas-portfolio-gamma.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-sage--kitten--0c60b9.netlify.app-2980B9?style=for-the-badge&logo=vercel" alt="Portfolio link">
 </a>
 <br><br>
@@ -193,7 +179,7 @@ I'm open to collaborating on:
 </table>
 
 <p align="center">
-  <img src="docs/img/divider.svg" width="100%" alt="divider" />
+  <img src="divider.svg" width="100%" alt="divider" />
 </p>
 
 <p align="center">⚡ Building secure, scalable backend systems — one API at a time</p>
