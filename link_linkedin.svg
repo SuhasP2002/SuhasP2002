@@ -1,0 +1,26 @@
+<svg width="280" height="90" viewBox="0 0 280 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="liBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a66c2"/>
+      <stop offset="100%" stop-color="#16a085"/>
+    </linearGradient>
+    <linearGradient id="liFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a121c"/>
+      <stop offset="100%" stop-color="#0d1a1a"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="276" height="86" rx="14" fill="url(#liFill)" stroke="url(#liBorder)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="27" y="27" width="36" height="36" rx="8" fill="none" stroke="#4ea3e0" stroke-width="2.5"/>
+  <circle cx="37" cy="36" r="2.4" fill="#4ea3e0"/>
+  <line x1="37" y1="42" x2="37" y2="55" stroke="#4ea3e0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M45 55 V47 Q45 42 50 42 Q55 42 55 47 V55" fill="none" stroke="#4ea3e0" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="80" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e7f1fb">LinkedIn</text>
+  <text x="80" y="61" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8fb3d6">Let's connect →</text>
+</svg>
